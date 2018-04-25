@@ -13,5 +13,9 @@ public class ConfigServer {
 }
 ```
 编写application.properties：
+```
+
+```
+
 
 ## 配置Client
