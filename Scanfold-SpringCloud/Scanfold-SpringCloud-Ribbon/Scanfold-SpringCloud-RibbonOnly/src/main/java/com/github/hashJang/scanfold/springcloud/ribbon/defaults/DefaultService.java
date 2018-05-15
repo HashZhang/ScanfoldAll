@@ -11,9 +11,9 @@ public class DefaultService {
     @Autowired
     private RestTemplate restTemplate;
 
-    @Scheduled(fixedDelay = 1000)
+    @Scheduled(fixedDelay = 5000)
     public void testDefaultRibbon() {
-        String forObject = restTemplate.getForObject("http://default-test/", String.class);
+        String forObject = restTemplate.getForObject("http://default-test/test", String.class);
 
         System.out.println("**********************");
         System.out.println(forObject);
