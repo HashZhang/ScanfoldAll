@@ -1,3 +1,9 @@
+# ElasticSearch
+Elasticsearch是一个基于Apache Lucene(TM)的开源搜索引擎。无论在开源还是专有领域，Lucene可以被认为是迄今为止最先进、性能最好的、功能最全的搜索引擎库。
+
+
+
+
 # Scanfold - ElasticSearch
 
 # Scanfold - SpringCloud - ElasticSearch

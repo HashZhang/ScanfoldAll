@@ -16,6 +16,7 @@
     <modules>
         <module>Scanfold-Spring-Data-ElasticSearch</module>
         <module>Scanfold-Spring-ElasticSearch-Starter</module>
+        <module>Scanfold-ElasticSearch-Client</module>
     </modules>
 
     <properties>
